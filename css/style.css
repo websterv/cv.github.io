@@ -6,6 +6,12 @@ body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: #333;
 }
+#cabecera{
+    background: #33A;
+    color: white;
+    margin: 0;
+    padding: 0.5em;
+}
 #container{
     width: 70%;
     padding: 1em;
